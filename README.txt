@@ -4,4 +4,5 @@ This documentation is available at http://openuadefense.api-docs.openprocurement
 
 Full documentation about OpenProcurement API is accessible at http://api-docs.openprocurement.org/
 
-test_transfer_token_2
+test_transfer_token_3
+
